@@ -1,0 +1,19 @@
+#tieu-de1{
+    font-weight: bold;
+    color:yellow;
+}
+
+.tieu-de2{
+    font-weight: bold;
+    color: darkred;
+}
+
+#menu ul li{
+    background: bisque;
+    color: blue;
+}
+
+#menu1 ul ul > p{
+    background: bisque;
+    color: aqua;
+}
