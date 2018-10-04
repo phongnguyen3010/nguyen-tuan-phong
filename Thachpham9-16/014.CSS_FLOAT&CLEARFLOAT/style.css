@@ -1,0 +1,26 @@
+.container{
+    width: 900px;
+    margin: 0 auto;
+    border: 1px solid black;
+    padding: 2em;
+
+}
+#content{
+    overflow: auto;
+}
+#post{
+    background-color: yellow;
+    height: 300px;
+    width: 560px;
+    float: left;
+
+}
+#sidebar{
+    background-color: aqua;
+    height:300px;
+    width:340px ;
+    float: right;
+}
+.clear{
+    clear: both;
+}
