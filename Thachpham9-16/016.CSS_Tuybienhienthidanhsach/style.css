@@ -1,0 +1,13 @@
+ul{
+    background-color: aquamarine;
+    padding: 0;
+    border: 0;
+    margin-left: 32px;
+    width: 300px;
+
+}
+
+//list-style:type position img
+li{
+    list-style: square outside;
+}
